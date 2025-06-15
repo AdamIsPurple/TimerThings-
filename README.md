@@ -1,2 +1,2 @@
-# TimerThings-
+# TimerThings
 Time your thinghs !
